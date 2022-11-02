@@ -1,4 +1,4 @@
-FROM ruby:3.0.4-alpine
+FROM ruby:latest
 WORKDIR /app
 COPY Gemfile .
 RUN bundle install
