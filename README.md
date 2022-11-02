@@ -4,7 +4,7 @@
 Minimal, dockerized Ruby application for testing connectivity/credentials to Elastic Cloud
 
 ### Configuration
-Add you Cloud ID, API Key ID and API Key to `connect.rb`.
+Add your Cloud ID, API Key ID and API Key to `connect.rb`.
 
 More info on authentication to Elastic Cloud can be found in the official docs [here](https://www.elastic.co/guide/en/elasticsearch/client/ruby-api/current/connecting.html#auth-ec)
 
